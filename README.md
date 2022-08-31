@@ -1,2 +1,2 @@
 # qubes-stuff
-Collection of qubesOS/i3/ tools and configuration
+Collection of qubesOS/i3/ tools, scripts and configuration
